@@ -111,8 +111,6 @@ Preparing for data science and analytics jobs while building strong SQL intuitio
 
 Seyoung Park
 
-M.S. Statistics Student at the University of Washington
-
 Interested in:
 
 * Data Science
