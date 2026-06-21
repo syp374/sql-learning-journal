@@ -1,6 +1,7 @@
 # Rank Variance Per Country
 
-**Source:** StrataScratch (https://platform.stratascratch.com/coding/2007-rank-variance-per-country?code_type=3)
+**Source:** StrataScratch 
+**Link:** https://platform.stratascratch.com/coding/2007-rank-variance-per-country?code_type=3
 **Difficulty:** Hard
 **Problem ID:** 2007
 
