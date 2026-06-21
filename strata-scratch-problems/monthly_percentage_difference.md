@@ -1,7 +1,11 @@
 # Monthly Percentage Difference
 
-**Source:** StrataScratch (https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?code_type=3)
+**Source:** StrataScratch
+
+**Link:** https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?code_type=3
+
 **Difficulty:** Hard
+
 **Problem ID:** 10319
 
 ## Problem Summary
